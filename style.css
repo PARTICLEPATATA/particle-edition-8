@@ -1,0 +1,204 @@
+body{
+    background-color: #f5f5f5;
+}
+
+h1{
+    font-family: 'Amatic SC', cursive;
+    color:#4d7ea8;
+    text-shadow:2px 2px #b0e0e6; 
+    font-size:700%;
+    text-align:center;
+    
+}
+
+p{
+    font-family: 'Oswald', sans-serif;
+    font-weight:200;
+    color:black;
+    font-size:200%;
+}
+
+
+#Particle{
+    background:linear-gradient( 
+    #b0e0e6 0%, #4d7ea8 100% );
+    opacity:0.83;
+    overflow:hidden;
+    height:90%;
+    text-align: center;
+}
+
+
+h4{
+    font-size:800%;
+    font-family: 'Amatic SC', cursive;
+    color:#f5f5f5;
+  
+
+}
+
+#a2{
+  font-family: 'Amatic SC', cursive;
+  font-size:100%;  
+}
+
+h2{
+    font-family: 'Amatic SC', cursive;
+    color:#f5f5f5; 
+    font-size: 350%; 
+}
+
+#Music{
+    text-align:center;
+}
+
+
+
+
+a {
+    font-family: 'Amatic SC', cursive;   
+    font-size: 200%;
+
+}
+
+h3{
+    font-family: 'Amatic SC', cursive; 
+    font-size:350%; 
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+
+#breaker{
+
+text-align: center;
+}
+
+#p1{
+    font-family: 'Oswald', sans-serif;
+    font-size:650%;
+    
+}
+
+#about_us{
+    text-align:left;
+}
+
+#about_us{
+    margin-left:10%;
+    margin-right:10%;
+      
+}
+
+img{
+    max-width: 100%;
+}
+
+.navbar-brand
+{
+    font-size:250%;
+}
+
+#odd{
+    text-align: right;
+}
+
+#even{
+    text-align: left;
+}
+
+#cc{
+    width: 45%;
+}
+
+#section1{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#vedika{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#sriram{
+    margin-left:10%;
+    margin-right:10%; 
+}
+
+#Aadhav{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#space_gods{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#puzzles{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#amthoughts{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#CreaturesUnheardOf{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#guest_features{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#anonymous{
+    margin-left: 10%;
+    margin-right:10%;
+}
+
+#poems{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#images{
+    width:40%;
+}
+
+#bhargavi{
+    margin-left:10%;
+    margin-right:10%; 
+}
+
+#anchor-1{
+    text-decoration: none;
+    background-color:linear-gradient(red 0%, green 100%);
+}
+
+#aaa{
+    text-decoration: none;
+    color:black;
+    font-size: 50px;
+}
+
+#aaa:hover{
+    color:lightskyblue;
+    font-size: 50px;
+}
+
+#comments{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#h5{
+    font-family:'Amatic SC', 'cursive';
+    font-size:300%;
+    color: whitesmoke;
+}
