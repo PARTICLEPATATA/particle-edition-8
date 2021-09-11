@@ -202,3 +202,16 @@ img{
     font-size:300%;
     color: whitesmoke;
 }
+
+#aaaa{
+    text-decoration: none;
+    color:#f5f5f5;
+    font-size: 50px;
+    font-family: 'Amatic SC','cursive';
+}
+
+#aaaa:hover{
+    color:lightskyblue;
+    font-size: 50px;
+    font-family: 'Amatic SC','cursive';
+}
