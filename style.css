@@ -188,7 +188,7 @@ img{
 
 }
 
-@media (min-width: 700px) {
+@media (max-width: 1024px) {
 
     #images {
           width: 40%;
