@@ -188,14 +188,6 @@ img{
 
 }
 
-@media (min-width: 1024px) {
-
-    #images {
-          width: 40%;
-     }
-
-}
-
 #bhargavi{
     margin-left:10%;
     margin-right:10%; 
