@@ -176,8 +176,24 @@ img{
     margin-right:10%;
 }
 
-#images{
-    width:40%;
+#images {
+    width: 30%;
+}
+
+@media (max-width: 1000px) {
+
+      #images {
+            width: 80%;
+       }
+
+}
+
+@media (min-width: 700px) {
+
+    #images {
+          width: 60%;
+     }
+
 }
 
 #bhargavi{
